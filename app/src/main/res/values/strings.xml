@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Namma-Raste Reporter</string>
+    <string name="report_issue">Report Infrastructure Issue</string>
+    <string name="track_status">Track Status</string>
+    <string name="enter_ticket_id">Enter Ticket ID</string>
+    <string name="check">Check</string>
+    <string name="login_title">Login to Namma-Raste</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="select_issue_type">Select Issue Type</string>
+    <string name="pothole">Pothole</string>
+    <string name="broken_light">Street Light</string>
+    <string name="drainage">Drainage</string>
+    <string name="footpath">Footpath</string>
+    <string name="garbage">Garbage</string>
+    <string name="traffic_sign">Traffic Sign</string>
+    <string name="select_severity">Select Severity</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="status_label">Status: %s</string>
+    <string name="ticket_success">Success! Ticket No: %1$s\nLocation: %2$s</string>
+    <string name="fetching_location">Fetching exact GPS location…</string>
+    <string name="location_format">Address: %1$s\nGPS: %2$.6f, %3$.6f</string>
+    <string name="waiting_for_location">Waiting for GPS signal…</string>
+    <string name="edit_location_hint">Refine area/address if needed</string>
+</resources>
